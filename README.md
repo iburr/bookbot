@@ -1,1 +1,1 @@
-# BookBot is my first project!
+# BookBot is a fun project i decided to do to further progess my python skills
